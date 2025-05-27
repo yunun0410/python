@@ -2,7 +2,11 @@ team: oz_fullstack
 
 leader: 성훈
 
+<<<<<<< HEAD
 coach: 서울
+=======
+coach: 민재
+>>>>>>> 5f845d1 (fullstack팀 변경)
 
 member:
 - 남욱
